@@ -1,0 +1,19 @@
+Variables: Las variables son una forma de guardar el valor de algo para usarlo mas tarde
+existen tres formas de declarar una variable 
+Var: Es la forma de declarar una variable en ES5
+Let: ES la forma de declarar una variable en ES6
+Es una variable similar a Var, pero con un comportamiento un poco diferente
+Const: Es otra forma de declarar una variable en ES6(la variable const (abreviacion de constante) es un tipo de variable que no se puede cambiar
+String:
+Las string son bloques de texto que se definen entre comillas
+Funciones (argumentos, return):
+Las funciones son tipos particulares tipos de objetos, llamados callable objects u objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto
+cuando tenes un conjunto de variables, se utilizan las funciones para calcularlas, cambiarlas o hacer algo con ellas
+argumentos:Los argumentos son los datos que son recibidos por la funcion
+return:es la forma de recibir los datos (resultados)de una funcion
+Declaraciones(if):
+Las declaraciones IF son un tipo de objeto condicional, esto quiere decir que, si se cumplen las condiciones puestas, devuelve un resultado y de lo contrario devuelve otro
+Valores booleanos (true, false)
+Los valores booleanos provienen de la logica de Boole. utilizado en codigo binario
+Esencialmente significa que devuelve un resultado como 0 o 1, activar o desactivar y verdadero o falso,
+En JavaScript se utiliza para significar verdadero o falso

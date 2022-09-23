@@ -1,0 +1,15 @@
+Bucle For:
+un bucle for es una forma de realizar continuamente un proceso hasta obtener el resultado requerido
+El bucle for evaluara la expresion condicional si es true, se ejecutara nuevamente, si es false dejare de funcionar
+esencialmente se utiliza para repetir una accion hasta conseguir el resultado deseado
+Operadores Logicos(&&, !, ||):
+&&:operador "Y" ("AND")
+Esto evaluará ambas expresiones y devolverá True si ambas expresiones son verdaderas. Si uno (o ambos) de ellos es falso, este operador devolverá false:
+Se utiliza cuando necesitas que se cumplan 2 (o mas) condiciones para hacer un proceso
+!:operador "NOT" ("NO")
+el operador NOT devolverá el valor booleano contrario de lo que se le pasa:
+se utiliza cuando queres negar una condicion o un resultado
+||: operador "Ó" ("OR")
+Determinará si alguna de las expresiones es verdadera
+Devolverá true si una (o ambas) de las expresiones es verdadera. Devolverá false si ambas expresiones son falsas
+Se utiliza esencialmente cuando buscas resultados sobre varias expreciones

@@ -1,0 +1,8 @@
+prototype:
+Las clases tienen una forma única de establecer un método una vez y dar acceso a cada objeto de esa clase a esos métodos.
+Cada clase tiene una propiedad prototype, que luego podemos utilizar en métodos
+los prototype son utilizados para modificar datos atraves de metodos especificos a una clase
+constructors(de clases):
+El método constructor es un método especial para crear e inicializar un objeto creado con una clase.
+una clase proveen una sintaxis clara y simple para crear objetos y lidiar con ellos
+se utiliza cuando queres crear muchos objetos que comparten propiedades y metodos

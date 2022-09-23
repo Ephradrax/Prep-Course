@@ -1,0 +1,4 @@
+Arrays:
+Los arrays son objetos similares a una lista de coleccion de tipos de datos
+tanto la longitud como el tipo de elementos son variables
+se utiliza cuando queremos almacenar una gran cantidad de datos y tener una forma facil de acceder a ellos para utilizarlos cuando queramos

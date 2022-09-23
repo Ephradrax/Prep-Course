@@ -1,0 +1,17 @@
+objetos:
+los objetos son contenedores de informacion sobre una sola cosa
+son una colleccion de datos definidos
+se utiliza en todo, ya practicamento todo en javascrip es un objeto
+propiedades:
+las propiedades son la forma de ver el objeto
+ya que todo en javaScript es un objeto, necesitas que clase de propiedad tiene el objeto para poder utlizarlo de la forma correcta
+metodos:
+los metodos son la forma de interactuar con los datos almacenados en el objeto
+se utilizan cuando necesitas producir un resultado con los datos almacenados
+bucle for.. in:
+el bucle for-in se repite sobre todas las propiedades enumerables de un objeto
+se utiliza cuando los objetos no contienen indices numericos, es otra forma del bucle for
+notaciones de puntos vs notaciones de corchetes:
+para acceder a las propiedades de un objeto se pueden utilizar ambas notaciones
+la diferencia radica en que la notacion de puntos requiere identificar el nombre del atributo
+y la notacion de corchetes te permite acceder aunque el nombre del atributo se almacene en una variable 
